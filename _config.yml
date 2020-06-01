@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-url: 'https:ductnn.github.io'
+url: 'https://ductnn.github.io'
 
 permalink: /:year/:month/:day/:title/
 
